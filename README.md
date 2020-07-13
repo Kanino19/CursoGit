@@ -6,4 +6,4 @@ Curso profesional de git de platzi
 
 ## Feaure
 
-Página Web ... prbando git cherry-pick
+Página Web ... prbando git cherry-pick. más pruebas.
